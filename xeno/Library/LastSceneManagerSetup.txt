@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/echec.unity
-  isLoaded: 1
-  isActive: 1
