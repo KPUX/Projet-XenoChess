@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{13F59387-0F97-46C0-6596-878EC2B683A3}") = "xeno", "Assembly-CSharp.csproj", "{7DEF00B6-7A47-41E0-B346-898C7E670298}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xeno", "Assembly-CSharp.csproj", "{7DEF00B6-7A47-41E0-B346-898C7E670298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
