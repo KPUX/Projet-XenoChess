@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{13F59387-0F97-46C0-6596-878EC2B683A3}") = "xeno", "Assembly-CSharp.csproj", "{7DEF00B6-7A47-41E0-B346-898C7E670298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEF00B6-7A47-41E0-B346-898C7E670298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEF00B6-7A47-41E0-B346-898C7E670298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEF00B6-7A47-41E0-B346-898C7E670298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEF00B6-7A47-41E0-B346-898C7E670298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
